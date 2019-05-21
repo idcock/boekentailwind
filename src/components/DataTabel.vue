@@ -1,10 +1,3 @@
-Skip to content Why GitHub? Enterprise Explore Marketplace Pricing Search Sign
-in Sign up 0 0 0 StevenCVO/boekentailwind Code Issues 0 Pull requests 0 Projects
-0 Insights Join GitHub today GitHub is home to over 36 million developers
-working together to host and review code, manage projects, and build software
-together. boekentailwind/src/components/DataTabel.vue unknown Update 288166b 7
-days ago 146 lines (138 sloc) 3.8 KB
-
 <template>
   <table class="w-full">
     <caption class="bg-blue-500 text-white text-xl p-4">
