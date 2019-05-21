@@ -35,15 +35,18 @@ export default {
       kolommen: [
         {
           naam: "Titel",
-          veld: "titel"
+          veld: "titel",
+          sorteerbaar: true
         },
         {
           naam: "Auteur",
-          veld: "auteur.naam"
+          veld: "auteur.naam",
+          sorteerbaar: true
         },
         {
           naam: "Aantal pagina's",
-          veld: "aantalPaginas"
+          veld: "aantalPaginas",
+          sorteerbaar: true
         }
       ]
     };
